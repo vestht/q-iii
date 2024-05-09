@@ -30,3 +30,8 @@ Finally we need to put a CNAME record in the Route53 hosted zone of the desired 
 **Low management overhead:** Once set up, S3 and CloudFront require minimal maintenance. You only need to upload/update your website assets to the S3 bucket when necessary.
 
 **Cost-effective:** S3 and CloudFront offer a pay-as-you-go pricing model, and for a static website with low to moderate traffic, the costs are typically very low.
+
+
+## Scenario 02
+
+[TODO]
