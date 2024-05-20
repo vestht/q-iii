@@ -35,3 +35,11 @@ Finally we need to put a CNAME record in the Route53 hosted zone of the desired 
 ## Scenario 02
 
 [TODO]
+
+
+## Scenario 03
+
+We can use AWS DataSync service to transfer 500GB data from the Sydney region to Oregon. Following will be the cost breakdown.
+
+- AWS DataSync Pricing (monthly): 6.25 USD
+- All other regions: 500 GB x 0.098 USD per GB = 49.00 USD (Data Transfer)
